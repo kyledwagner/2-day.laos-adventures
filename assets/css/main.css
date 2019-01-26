@@ -1,0 +1,9 @@
+/* This is the main.css file for Tiger Trail's microsite. */
+.navbar
+{
+ background-color:#a71c20;
+}
+
+.parallax-container {
+    height: 800px;
+  }
