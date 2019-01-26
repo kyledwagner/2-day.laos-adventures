@@ -5,5 +5,10 @@
 }
 
 .parallax-container {
-    height: 800px;
+    height: 1000px;
   }
+
+.btn-floating
+{
+ background-color:#a71c20 !important;
+}
