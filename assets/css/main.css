@@ -113,6 +113,11 @@ nav .nav-wrapper {
 
   @media (min-width: 1024px) {
     .container {
-      max-width: 60% !important;
+      max-width: 50% !important;
       }
     }
+
+.card .card-title {
+    font-size: 28px;
+    font-weight: 400;
+ }
