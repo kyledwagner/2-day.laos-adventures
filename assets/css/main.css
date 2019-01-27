@@ -4,10 +4,6 @@
  background-color:#a71c20;
 }
 
-.parallax-container {
-    height: 1000px;
-  }
-
 .tt-color
 {
  background-color:#a71c20 !important;
@@ -17,8 +13,16 @@
     padding-top: 0;
 }
 
+.carousel {
+    height: 65vh;
+}
+
 nav .nav-wrapper {
     background-color: #a71c20;
+}
+
+p, .collapsible-header, .collection .collection-item {
+    font-size: 1.1rem;
 }
 
 /* The hero image */
@@ -99,7 +103,7 @@ nav .nav-wrapper {
   /* The hero image */
 .hero-image-6 {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.10)), url("/assets/images/hero/Luang_Prabang_Laos_Photo_by_Cyril_Eberle_IMG_9092.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.45)), url("/assets/images/hero/Luang_Prabang_Laos_Photo_by_Cyril_Eberle_IMG_9092.jpg");
 
     /* Set a specific height */
     height: 60%;
