@@ -13,14 +13,6 @@
  background-color:#a71c20 !important;
 }
 
-body, html {
-    height: 100%;
-}
-
-.page-footer .footer-copyright {
-    background-color:#a71c20;
-}
-
 .page-footer {
     padding-top: 0;
 }
@@ -118,3 +110,9 @@ nav .nav-wrapper {
     background-size: cover;
     position: relative;
   }
+
+  @media (min-width: 1024px) {
+    .container {
+      max-width: 60% !important;
+      }
+    }
