@@ -17,6 +17,14 @@ body, html {
     height: 100%;
 }
 
+.page-footer .footer-copyright {
+    background-color:#a71c20;
+}
+
+.page-footer {
+    padding-top: 0;
+}
+
 nav .nav-wrapper {
     background-color: #a71c20;
 }
