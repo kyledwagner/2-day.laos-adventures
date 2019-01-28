@@ -25,6 +25,10 @@ p, .collapsible-header, .collection .collection-item {
     font-size: 1.1rem;
 }
 
+.card .card-image .card-title {
+  padding-bottom: 0px;
+}
+
 /* The hero image */
 .hero-image-1 {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
