@@ -46,7 +46,7 @@ h1 {
 /* The hero image */
 .hero-image-1 {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("/assets/images/hero/WhatsApp Image 2019-01-13 at 11.51.42.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("https://kyledwagner.github.io/2-day.laos-adventures/assets/images/hero/WhatsApp Image 2019-01-13 at 11.51.42.jpg");
 
   /* Set a specific height */
   height: 60%;
@@ -61,7 +61,7 @@ h1 {
 /* The hero image */
 .hero-image-2 {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("/assets/images/hero/laos-luang-prabang-night-market-temple-photo-by-cyril-eberle-CEB_3892.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("https://kyledwagner.github.io/2-day.laos-adventures/assets/images/hero/laos-luang-prabang-night-market-temple-photo-by-cyril-eberle-CEB_3892.jpg");
 
     /* Set a specific height */
     height: 60%;
@@ -76,7 +76,7 @@ h1 {
 /* The hero image */
 .hero-image-3 {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("/assets/images/hero/laos-luang-prabang-tat-kuang-si-waterfall-photo-by-cyril-eberle-CEB_4304_.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("https://kyledwagner.github.io/2-day.laos-adventures/assets/images/hero/laos-luang-prabang-tat-kuang-si-waterfall-photo-by-cyril-eberle-CEB_4304_.jpg");
 
     /* Set a specific height */
     height: 60%;
@@ -91,7 +91,7 @@ h1 {
   /* The hero image */
 .hero-image-4 {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("/assets/images/hero/laos-luang-prabang-pak-ou-cave-tiger-trail-photo-by-cyril-eberle-CEB_2563.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("https://kyledwagner.github.io/2-day.laos-adventures/assets/images/hero/laos-luang-prabang-pak-ou-cave-tiger-trail-photo-by-cyril-eberle-CEB_2563.jpg");
 
     /* Set a specific height */
     height: 60%;
@@ -106,7 +106,7 @@ h1 {
   /* The hero image */
 .hero-image-5 {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("/assets/images/hero/balcon2820.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("https://kyledwagner.github.io/2-day.laos-adventures/assets/images/hero/balcon2820.jpg");
 
     /* Set a specific height */
     height: 60%;
@@ -121,7 +121,7 @@ h1 {
   /* The hero image */
 .hero-image-6 {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("/assets/images/hero/Luang_Prabang_Laos_Photo_by_Cyril_Eberle_IMG_9092.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.35)), url("https://kyledwagner.github.io/2-day.laos-adventures/assets/images/hero/Luang_Prabang_Laos_Photo_by_Cyril_Eberle_IMG_9092.jpg");
 
     /* Set a specific height */
     height: 60%;
