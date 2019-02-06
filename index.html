@@ -93,7 +93,7 @@
 					<h5 class="white-text" data-aos="fade-up" data-aos-duration="750" data-aos-delay="0" data-aos-anchor-placement="top-bottom" data-aos-once="true"><strong>2 DAYS</strong></h5>
 					<h1 class="white-text" data-aos="fade-up" data-aos-duration="750" data-aos-delay="50" data-aos-anchor-placement="top-bottom" data-aos-once="true" style="margin-top:1rem">Discover Laos</h1>
 					<h6 class="white-text" data-aos="fade-up" data-aos-duration="750" data-aos-delay="100" data-aos-anchor-placement="top-bottom" data-aos-once="true" style="margin-bottom:2rem;"><i class="tiny material-icons">location_on</i>&nbsp;Luang Prabang, Laos</h6>
-			  <a class="btn waves-effect waves-red tt-color btn-large" data-aos="zoom-in" data-aos-duration="750" data-aos-delay="500" data-aos-anchor-placement="top-bottom" data-aos-once="true">BOOK NOW</a>
+			  <a class="btn waves-effect waves-red tt-color btn-large" data-aos="zoom-in" data-aos-duration="750" data-aos-delay="500" data-aos-anchor-placement="top-bottom" data-aos-once="true" href="https://www.wetravel.com/checkout_embed?uuid=13741689">BOOK NOW</a>
 			</div>
 			<div class="carousel-item hero-image-1 white-text">
 			</div>
@@ -162,7 +162,10 @@
 						  <li class="collection-item">Private vehicle with A/C</li>
 							<li class="collection-item">English speaking guide</li>
 							<li class="collection-item">Entrance fee(s)</li>
-							<li class="collection-item">Meals (as per itinerary)</li>
+							<li class="collection-item">Meals (described in itinerary)</li>
+							<li class="collection-item">Hotel room (twin shared)</li>
+							<li class="collection-item">Luggage handling</li>
+							<li class="collection-item">Lao PDR governmental tax</li>
 						</ul>
 				</div>
 			</li>
@@ -211,7 +214,7 @@
 								</span>
 							</div>
 							<div class="card-action grey lighten-4">
-								<a class="waves-effect waves-light btn-small grey darken-1 modal-trigger" href="#modal1">Terms & Conditions</a>
+								<a class="waves-effect waves-light btn-small grey darken-1 modal-trigger" href="#modal1">Cancellation Policy</a>
 							</div>
 						</div>
 					</div>
@@ -220,11 +223,37 @@
 	<!-- Modal Structure -->
 	<div id="modal1" class="modal modal-fixed-footer">
 			<div class="modal-content">
-				<h5>Terms & Conditions</h5>
-				<p>Lorem ipsum. Lorem ipsum. Lorem ipsum.</p>
+				<h5>Cancellation Policy</h5><br>
+				<h6><strong>Low Season: 16 April 2019 to 30 September 2019</strong></h6>
+				<p>With Accommodation</p>
+				<ul>
+					<li>- 14 days before the tour start date (50% fee penalty in addition to any 3rd party charges)</li>
+					<li>- 1 day before the tour start date or NO SHOW (100% fee penalty)</li>
+				</ul>
+				<p>Without Accommodation</p>
+				<ul>
+					<li>- 7 days before the tour start date (50% fee penalty in addition to any 3rd party charges)</li>
+					<li>- 5 days before the tour start date (75% fee penalty in addition to any 3rd party charges)</li>
+					<li>- 1 day before the tour start date or NO SHOW (100% fee penalty)</li>
+				</ul>
+				<br>
+				<h6><strong>High Season: 1 October 2019 to 21 December 2019</strong></h6>
+
+					<p>With Accommodation</p>
+					<ul>
+					<li>- 30-15 days before the tour start date (50% fee penalty in addition to any 3rd party charges)</li>
+					<li>- 14 days before the tour start date or NO SHOW (100% fee penalty)</li>
+					</ul>
+
+					<p>Without Accommodation</p>
+					<ul>
+					<li>- 7 days before the tour start date (50% fee penalty in addition to any 3rd party charges)</li>
+					<li>- 5 days before the tour start date (75% fee penlty in addition to any 3rd party charges)</li>
+					<li>- 1 day before the tour start date or NO SHOW (100% fee penalty)</li>
+					</ul>
 			</div>
 			<div class="modal-footer">
-				<a href="#!" class="modal-close waves-effect waves-red btn-flat">Agree</a>
+				<a href="#!" class="modal-close waves-effect waves-red btn-flat">Okay</a>
 			</div>
 		</div>
 
@@ -242,11 +271,9 @@
     <!-- JAVASCRIPT FILES -->
 	<script src="assets/js/jquery-3.3.1.min.js" type="text/javascript"></script>
 	<!-- <script src="assets/js/bootstrap.min.js" type="text/javascript"></script> -->
-	<script src="assets/js/materialize.min.js"></script>
-	<script src="https://js.stripe.com/v3/"></script>
-	<script>
-	var stripe = Stripe('pk_test_OlnSoXXiT8J5DAtOVRX4wiNd');
-	</script>
+	<script src="assets/js/materialize.min.js" type="text/javascript"></script>
+	<script src="https://www.wetravel.com/assets/embed_checkout.js" type="text/javascript"></script>
+	<!-- <iframe style="position:fixed;width:100vw;height:100vh;top:0;left:0;bottom:0;right:0;z-index:21150313555;overflow:hidden" frameborder="0" src="https://www.wetravel.com/checkout_embed?uuid=13741689"></iframe> -->
 	<script type="text/javascript">
 		M.AutoInit();
     document.addEventListener('DOMContentLoaded', function() {
