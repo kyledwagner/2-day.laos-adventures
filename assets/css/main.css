@@ -143,3 +143,8 @@ h1 {
     font-size: 28px;
     font-weight: 400;
  }
+
+ .dropdown-mob {
+   position: absolute;
+   top: 100% !important;
+ }
