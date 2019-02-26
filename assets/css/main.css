@@ -148,3 +148,8 @@ h1 {
    position: absolute;
    top: 100% !important;
  }
+
+.card-panel {
+   padding-top: 6px !important;
+   padding-bottom: 6px !important;
+ }
